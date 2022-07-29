@@ -1,5 +1,6 @@
 # Sort-Algorithms
-Will get better
 
-So basically, do what you want with it, I don't really care.
-I support open source so yeah
+You can do what you want with it.
+I support open source, so yeah.
+I uploaded this library on the go since I'm still learning different sorting algorithms.
+So yeah, I will upload updated libraries in the future.
